@@ -1,0 +1,64 @@
+body{
+    background-color: grey;
+}
+#container{
+    text-align: left;
+    
+}
+.title{
+    color: navy;
+    text-align: center;
+
+}
+form{
+    background-color:bisque;
+    width: 350px;
+    margin: 0 auto;
+    padding: 12px;
+    border-radius: 12px;
+    text-align: center;
+}
+#info{
+    display: inline-block;
+    text-align: left;
+    margin: 12px auto;
+    color: navy;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+    width: 80px;
+    height: 24px;
+    border: 0;
+    border-radius: 6px;
+    margin: 0 3px;
+}
+#reset{
+    background-color: blue;
+    color: blanchedalmond;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#calc{
+    background-color: aqua;
+    color: navy;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+input{
+    text-align: center;
+    font-size: 16px;
+    margin: 6px;
+}
+label{
+    font-weight:bold;
+}
+select{
+    text-align: center;
+    font-size: 16px;
+    width: 200px;
+    }
+
+#calcRule{
+    background-color:darksalmon ;
+    border-radius: 6px;
+    margin:6px
+   
+}
