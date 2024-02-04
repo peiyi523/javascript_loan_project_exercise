@@ -73,3 +73,25 @@ select{
     padding: 12px;
 
 }
+table{
+    width: 80%;
+    margin: 6px auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: rgb(201, 219, 234);
+    text-align: center;
+}
+thead th{
+    background-color:rgb(19, 19, 151);
+    border: 1px solid #e48181;
+    font-size: 18px;
+    color:beige;
+}
+td{
+    border: 1px solid #642222;
+    padding: 6px;
+    
+}
+tbody tr:nth-child(even){
+    background-color: rgb(161, 206, 248);
+}
